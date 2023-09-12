@@ -1,4 +1,4 @@
-#include "School"
+#include "main.h"
 
 /**
   * main - Entry point
